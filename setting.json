@@ -1,0 +1,9 @@
+{
+    "window.zoomlevel": 2,
+    "editor.fontSize": 26,
+    "files.autoSave": "off",
+    "editor.wordwrap": "on",
+    "editor.formatOnPast": true,
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+}
